@@ -1,7 +1,7 @@
 # EX 48 C functions to perform all basic operations in Double Linked List.
 ## DATE:07-05-2025
 ## AIM:
-To write a C functions to perform all basic operations in Doubly Linked List.
+To write a C functions to perform all basic operations in Double Linked List.
 
 ## Algorithm:
 1. Start. 
