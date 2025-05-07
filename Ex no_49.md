@@ -1,7 +1,7 @@
 # EX 49 C function to search an element in the double linked list.
 ## DATE: 07-05-2025
 ## AIM:
-To write a C function to search an element in the doubly linked list.
+To write a C function to search an element in the double linked list.
 
 ## Algorithm:
 1. Start. 
