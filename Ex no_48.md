@@ -1,4 +1,4 @@
-# EX 48 C functions to perform all basic operations in Doubly Linked List.
+# EX 48 C functions to perform all basic operations in Double Linked List.
 ## DATE:07-05-2025
 ## AIM:
 To write a C functions to perform all basic operations in Doubly Linked List.
@@ -50,7 +50,9 @@ printf("Item not found\n");
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/3c81dbb8-b5c0-4ec3-bd1c-e90171a84133)
+
+![Screenshot 2025-05-07 224636](https://github.com/user-attachments/assets/e1a2f71b-4dd1-4e50-ad5e-ea4e1b69f084)
+
 
 
 ## Result:
